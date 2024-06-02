@@ -1,4 +1,4 @@
-# Xiaomi_TV_Hosts Start
+# Xiaomi_Redmi_TV_Hosts Start
 
 # 爱奇艺
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
@@ -22,6 +22,6 @@
 127.0.0.1 pl.cp31.ott.cibntv.net
 127.0.0.1 vali-ugc.cp31.ott.cibntv.net
 
-# Update url: https://raw.gitmirror.com/743859910/Xiaomi_TV_Hosts/master/Xiaomi_TV_Hosts.txt
-# Star me: https://github.com/743859910/Xiaomi_TV_Hosts
-# Xiaomi_TV_Hosts End
+# Update url: https://raw.gitmirror.com/743859910/Xiaomi_Redmi_TV_Hosts/master/Xiaomi_Redmi_TV_Hosts.txt
+# Star me: https://github.com/743859910/Xiaomi_Redmi_TV_Hosts
+# Xiaomi_Redmi_TV_Hosts End
