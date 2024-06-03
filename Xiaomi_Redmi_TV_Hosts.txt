@@ -1,11 +1,5 @@
 # Xiaomi_Redmi_TV_Hosts Start
 
-# 爱奇艺
-127.0.0.1 t7z.cupid.ptqy.gitv.tv
-
-# Gitv
-127.0.0.1 video.market.xiaomi.com
-
 # 爱奇艺（银河奇异果）
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
 
